@@ -2,7 +2,7 @@
 CS-320 Project One: Contact Class, Contact Service, Contact Class Test, Contact Service Test
 
 
-How can I ensure that my code, program, or software is functional and secure?/n
+How can I ensure that my code, program, or software is functional and secure?\n
 I would say that for never using JUnit testing before, I did pretty okay. I did make some mistakes, but I learned a whole lot. JUnit tests are very useful in making sure that your program is running smoothly, and it accomplishes this by allowing you to create tests for each of the parameters in your program. They also allow you to see where errors are in your prgram, allowing you to quickly find them and correct them. 
 
 How do I interpret user needs and incorporate them into a program?
